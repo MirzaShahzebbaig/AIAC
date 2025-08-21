@@ -1,3 +1,0 @@
-Name: Mirza
-Age: 19
-Encrypted Email: bWlyemExOUBnbWFpbA==
